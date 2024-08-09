@@ -1666,3 +1666,13 @@
     - Algolia
   made_by: Enotria&Coe
   made_by_url: https://www.enotriacoe.com/
+- title: DRIMS - Report, Track and Monitor Natural Disasters
+  url: https://drims.veldev.com
+  description: DRIMS - Disaster Reporting and Information Management System is one place to track all types of natural and man-made Disasters in the State of Assam. The application has been built on Strapi for RESTful APIs and frontend in ReactJS and Mobile App in Flutter. This application is one of the main tools to track and monitor the disasters and provide adequate assistance to the affected people by ASDMA (Assam State Disaster Management Authority, Govt. of Assam, India).
+  categories:
+    - Government Portal
+  frontend:
+    - ReactJS
+    - Flutter
+  made_by: Velocity Software Solutions Pvt Ltd.
+  made_by_url: https://www.velsof.com
